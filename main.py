@@ -10,9 +10,9 @@ from platform import python_version
 from pyrogram.errors import FloodWait
 
 
-API_ID = input("api_id=> ")
-API_HASH = input("api_hash=> ")
-CHANNEL_USERNAME = str(input("channel_username=> "))
+API_ID = input("22437715=> ")
+API_HASH = input("e516ca8cd543ccd603da05291d00da02=> ")
+CHANNEL_USERNAME = str(input("https://t.me/Xd_Cyber_world=> "))
 
 app = Client("my_account", API_ID, API_HASH)
 
